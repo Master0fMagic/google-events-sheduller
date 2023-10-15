@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1ov9ci53hrvhlt8fa9o28hreub",
+    "summary": "Test begin day task",
+    "start_date": "2023-10-16T00:00:00+03:00",
+    "end_date": "2023-10-16T00:15:00+03:00",
+    "link": "https://www.google.com/calendar/event?eid=MW92OWNpNTNocnZobHQ4ZmE5bzI4aHJldWIgZGFuaWlsLnRvdnN0b2x1Z0Bt&ctz=Europe/Kiev",
+    "status": "confirmed",
+    "description": ""
+  },
+  {
+    "id": "5sgsismiafmq4r0qm7pi7p630v",
+    "summary": "test whole day task",
+    "start_date": "2023-10-16",
+    "end_date": "2023-10-16",
+    "link": "https://www.google.com/calendar/event?eid=NXNnc2lzbWlhZm1xNHIwcW03cGk3cDYzMHYgZGFuaWlsLnRvdnN0b2x1Z0Bt&ctz=Europe/Kiev",
+    "status": "confirmed",
+    "description": "test whole day task description"
+  },
+  {
+    "id": "utsv4lrgno6h7c0kjmqghd4rng_20231016T080000Z",
+    "summary": "Nodka  Daily meeting",
+    "start_date": "2023-10-16T11:00:00+03:00",
+    "end_date": "2023-10-16T11:15:00+03:00",
+    "link": "https://www.google.com/calendar/event?eid=dXRzdjRscmdubzZoN2Mwa2ptcWdoZDRybmdfMjAyMzEwMTZUMDgwMDAwWiBkYW5paWwudG92c3RvbHVnQG0&ctz=Europe/Kiev",
+    "status": "confirmed",
+    "description": ""
+  },
+  {
+    "id": "6mj3kq5vh7jq7h4me92fua5c3a",
+    "summary": "Test task for the end of the day",
+    "start_date": "2023-10-16T23:00:00+03:00",
+    "end_date": "2023-10-17T00:00:00+03:00",
+    "link": "https://www.google.com/calendar/event?eid=Nm1qM2txNXZoN2pxN2g0bWU5MmZ1YTVjM2EgZGFuaWlsLnRvdnN0b2x1Z0Bt&ctz=Europe/Kiev",
+    "status": "confirmed",
+    "description": "test description"
+  }
+]
